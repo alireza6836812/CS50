@@ -1,0 +1,65 @@
+/* Centered text */
+.center-text {
+    text-align: center;
+}
+
+/* Image container with top margin */
+.image-container {
+    margin-top: 20px;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Header styling */
+.header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Main content styling */
+#main-content {
+    margin: 30px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    text-align:center
+}
+
+/* Color styling for span within main content */
+#main-content span {
+    color: red;
+}
+
+/* Styling for links starting with "https" */
+a[href^="https"] {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Hover effect for buttons */
+.button:hover {
+    background-color: #007bff; /* Change the background color to blue */
+    color: white; /* Change the text color to white */
+}
+
+/* Styling for h1 tags */
+h1 {
+    font-size: 30px;
+}
+
+/* New - Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}

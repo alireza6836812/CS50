@@ -1,0 +1,13 @@
+If songs.db contains the top 100 songs of one listener from 2018,
+their audio aura can be characterized by calculating the average
+energy, valence, and danceability of their top 100 songs. The audio
+aura can be determined by assigning a color to each of six mood descriptor
+categories (including happy, calm, and hopeful) and matching them with tracks on Spotify.
+
+However, this method of calculating the audio aura might not be very
+representative of the listener because it only takes into account the top 100
+songs of the listener from the past year.
+
+A better way of calculating the audio aura would be to analyze the listener's entire
+music history on Spotify, rather than just their top 100 songs from the past year.
+This would provide a more comprehensive understanding of the listener's music preferences and moods.

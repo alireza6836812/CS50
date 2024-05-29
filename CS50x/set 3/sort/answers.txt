@@ -1,0 +1,15 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+I calculated the of three given sorts.
+Bubble sort took a time more than Merge and less than Selection.
+
+sort2 uses: Merge Sort
+
+How do you know?:
+Merge sort took the lessed time compared with the two others.
+
+sort3 uses: Selection Sort
+
+How do you know?:
+Selection sort took more time compared with Merge sort and Bubble sort.
